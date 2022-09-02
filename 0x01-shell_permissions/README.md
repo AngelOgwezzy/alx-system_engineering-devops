@@ -1,1 +1,1 @@
-betty is the superuser
+prints the effective username of the current user.
