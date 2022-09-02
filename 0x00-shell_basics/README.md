@@ -1,1 +1,1 @@
-script that changes the working directory to the user home directory
+display hidden content in long format
