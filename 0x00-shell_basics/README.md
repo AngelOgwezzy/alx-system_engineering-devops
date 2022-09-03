@@ -1,1 +1,1 @@
-script that lists all files with names beginning with a period character, which are normally hidden
+script that prints the type of the file named iamafile.
