@@ -1,1 +1,1 @@
-my first redirection readme
+a script that prints hello,world
